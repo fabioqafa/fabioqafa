@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fabioqafa, an Economic-Informatics graduated student from the University of Tirana
+- 👋 Hi, I’m @fabioqafa, a graduated student from the University of Tirana
 - 👀 I’m interested in Blockchain Development
 - 🌱 I’m currently learning Ethereum, Corda and Hyperledger
 - 💞️ I’m looking to collaborate on groups/projects with other blockchain developers
