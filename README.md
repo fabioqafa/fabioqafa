@@ -15,7 +15,7 @@ Knowledgeable at:
   3. DAOs
   4. Account Abstraction
   5. Upgradeable Smart Contracts
-  6. Smart Contract Security and Best Practicies (N.B: DRY, CEI)
+  6. Smart Contract Security and Best Practices (N.B: Non-Reentrancy, CEI, DRY)
   7. Solana SPL Token
   8. REST APIs
 
