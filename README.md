@@ -3,7 +3,9 @@
 [![X](	https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/qafafabio)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fabio-qafa-0002bb179/)
 
-Hi, I'm Fabio Qafa, MSc Blockchain at Queen Mary University of London & BSc Computer Science at University of Tirana.
+## I'm Fabio Qafa, MSc Blockchain at Queen Mary University of London & BSc Computer Science at University of Tirana.
+
+## Award Winner at ICT Awards Albania 2022, Category Best Blockchain Startup.
 
 I am a professional software engineer with around 2 years of experience in IT, specializing in Back-End and Blockchain programming.
 
