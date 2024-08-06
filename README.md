@@ -3,9 +3,21 @@
 [![X](	https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/qafafabio)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fabio-qafa-0002bb179/)
 
-Hi, I'm Fabio Qafa, a professional software engineer with around 2 years of experience in IT, specializing in Back-End and Blockchain programming.
+Hi, I'm Fabio Qafa, MSc Blockchain at Queen Mary University of London & BSc Computer Science at University of Tirana.
+
+I am a professional software engineer with around 2 years of experience in IT, specializing in Back-End and Blockchain programming.
 
 Skilled at smart contract development and back-end API integration with Solidity and TypeScript.
+
+Knowledgeable at:
+  1. ERC and EIP standards (N.B: ERC20, ERC721, ERC1155)
+  2. DeFi Protocols (N.B: Decentralized Stablecoins, Flash Loans, Lending)
+  3. DAOs
+  4. Account Abstraction
+  5. Upgradeable Smart Contracts
+  6. Smart Contract Security and Best Practicies (N.B: DRY, CEI)
+  7. Solana SPL Token
+  8. REST APIs
 
 Brief knowledge of front-end programming using React Native.
 
