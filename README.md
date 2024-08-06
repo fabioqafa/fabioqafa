@@ -1,6 +1,6 @@
-# hey there,
+# Hey there,
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/qafafabio)
+[![X](	https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/qafafabio)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fabio-qafa-0002bb179/)
 
 Hi, I'm Fabio Qafa, a professional software engineer with around 2 years of experience in IT, specializing in Back-End and Blockchain programming.
