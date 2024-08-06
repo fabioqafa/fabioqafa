@@ -6,7 +6,7 @@
 ## I'm Fabio Qafa, MSc Blockchain at Queen Mary University of London & BSc Computer Science at University of Tirana.
 
 ## Award Winner at ICT Awards Albania 2022, Category Best Blockchain Startup.
-![ICT Awards 2022](https://github.com/fabioqafa/fabioqafa/blob/main/ICT_awards.jpg)
+![ICT Awards 2022](<img src="https://github.com/fabioqafa/fabioqafa/blob/main/ICT_awards.jpg" alt="ICT Awards 2022" width="420"/>)
 
 I am a professional software engineer with around 2 years of experience in IT, specializing in Back-End and Blockchain programming.
 
@@ -29,7 +29,7 @@ Decent academic knowledge of data science and machine learning models using Pyth
 - 📫 Any project to work on? Do reach out [email](mailto:fabioqafa56@gmail.com) :)
 - 💬 Ask me about anything. I am happy to help!
 
-## languages and tools:
+## Languages and Tools:
 
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
