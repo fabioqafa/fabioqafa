@@ -20,9 +20,8 @@ Knowledgeable at:
  - 🤖 DAOs
  - 🔐 Account Abstraction
  - 🎁 Airdrop and Signatures (N.B: EIP712, EIP191)
- - 🔄 Upgradeable Smart Contracts
- - 🛡️ Smart Contract Security and Best Practices (N.B: Non-Reentrancy, CEI, DRY)
- <img src="https://img.icons8.com/ios-filled/50/000000/contract.png" width="20"/> Upgradeable Smart Contracts  
+ - <img src="https://img.icons8.com/ios-filled/50/007bff/contract.png" width="20"/> Upgradeable Smart Contracts  
+ - 🛡️ Smart Contract Security and Best Practices (N.B: Non-Reentrancy, Replay Attacks, CEI, DRY)
  - 🔗 REST APIs
 
 Brief knowledge of front-end programming using React Native.
