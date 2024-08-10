@@ -22,8 +22,8 @@ Knowledgeable at:
   🎁 Airdrop and Signatures (N.B: EIP712, EIP191)
   🔄 Upgradeable Smart Contracts
   🛡️ Smart Contract Security and Best Practices (N.B: Non-Reentrancy, CEI, DRY)
-  ⚙️ Solana SPL Token
-  ![NestJS Logo](https://nestjs.com/img/logo-small.svg) REST APIs
+  ![Contract Logo](https://img.icons8.com/ios-filled/50/000000/contract.png) Upgradeable Smart Contracts
+  🔗 REST APIs
 
 Brief knowledge of front-end programming using React Native.
 
