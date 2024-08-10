@@ -22,7 +22,7 @@ Knowledgeable at:
  - 🎁 Airdrop and Signatures (N.B: EIP712, EIP191)
  - 🔄 Upgradeable Smart Contracts
  - 🛡️ Smart Contract Security and Best Practices (N.B: Non-Reentrancy, CEI, DRY)
- - ![Contract Logo](https://img.icons8.com/ios-filled/50/000000/contract.png) Upgradeable Smart Contracts
+ <img src="https://img.icons8.com/ios-filled/50/000000/contract.png" width="20"/> Upgradeable Smart Contracts  
  - 🔗 REST APIs
 
 Brief knowledge of front-end programming using React Native.
