@@ -15,12 +15,15 @@ Skilled at smart contract development and back-end API integration with Solidity
 Knowledgeable at:
   1. ERC and EIP standards (N.B: ERC20, ERC721, ERC1155)
   2. DeFi Protocols (N.B: Decentralized Stablecoins, Flash Loans, Lending)
-  3. DAOs
-  4. Account Abstraction
-  5. Upgradeable Smart Contracts
-  6. Smart Contract Security and Best Practices (N.B: Non-Reentrancy, CEI, DRY)
-  7. Solana SPL Token
-  8. REST APIs
+  3. Real Estate Tokenization
+  4. Blockchain in Healthcare
+  5. DAOs
+  6. Account Abstraction
+  7. Airdrop and Signatures (N.B: EIP712, EIP191)
+  8. Upgradeable Smart Contracts
+  9. Smart Contract Security and Best Practices (N.B: Non-Reentrancy, CEI, DRY)
+  10. Solana SPL Token
+  11. REST APIs
 
 Brief knowledge of front-end programming using React Native.
 
