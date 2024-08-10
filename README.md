@@ -13,17 +13,17 @@ I am a professional software engineer with around 2 years of experience in IT, s
 Skilled at smart contract development and back-end API integration with Solidity and TypeScript.
 
 Knowledgeable at:
-  1. ERC and EIP standards (N.B: ERC20, ERC721, ERC1155)
-  2. DeFi Protocols (N.B: Decentralized Stablecoins, Flash Loans, Lending)
-  3. Real Estate Tokenization
-  4. Blockchain in Healthcare
-  5. DAOs
-  6. Account Abstraction
-  7. Airdrop and Signatures (N.B: EIP712, EIP191)
-  8. Upgradeable Smart Contracts
-  9. Smart Contract Security and Best Practices (N.B: Non-Reentrancy, CEI, DRY)
-  10. Solana SPL Token
-  11. REST APIs
+  🌐 ERC and EIP standards (N.B: ERC20, ERC721, ERC1155)
+  💸 DeFi Protocols (N.B: Decentralized Stablecoins, Flash Loans, Lending)
+  🏡 Real Estate Tokenization
+  🏥 Blockchain in Healthcare
+  🤖 DAOs
+  🔐 Account Abstraction
+  🎁 Airdrop and Signatures (N.B: EIP712, EIP191)
+  🔄 Upgradeable Smart Contracts
+  🛡️ Smart Contract Security and Best Practices (N.B: Non-Reentrancy, CEI, DRY)
+  ⚙️ Solana SPL Token
+  ![NestJS Logo](https://nestjs.com/img/logo-small.svg) REST APIs
 
 Brief knowledge of front-end programming using React Native.
 
