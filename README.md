@@ -17,12 +17,12 @@ Knowledgeable at:
  - 💸 DeFi Protocols (N.B: Decentralized Stablecoins, Flash Loans, Lending)
  - 🏡 Real Estate Tokenization
  - 🏥 Blockchain in Healthcare
- - 🤖 DAOs
+ - <img src="https://img.icons8.com/ios-filled/50/4CAF50/robot.png" width="20"/> DAOs
  - 🔐 Account Abstraction
  - 🎁 Airdrop and Signatures (N.B: EIP712, EIP191)
  - <img src="https://img.icons8.com/ios-filled/50/007bff/contract.png" width="20"/> Upgradeable Smart Contracts  
  - 🛡️ Smart Contract Security and Best Practices (N.B: Non-Reentrancy, Replay Attacks, CEI, DRY)
- - 🔗 REST APIs
+ - <img src="https://nestjs.com/img/logo-small.svg" width="20"/> REST APIs
 
 Brief knowledge of front-end programming using React Native.
 
