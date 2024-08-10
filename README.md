@@ -13,17 +13,17 @@ I am a professional software engineer with around 2 years of experience in IT, s
 Skilled at smart contract development and back-end API integration with Solidity and TypeScript.
 
 Knowledgeable at:
-  🌐 ERC and EIP standards (N.B: ERC20, ERC721, ERC1155)
-  💸 DeFi Protocols (N.B: Decentralized Stablecoins, Flash Loans, Lending)
-  🏡 Real Estate Tokenization
-  🏥 Blockchain in Healthcare
-  🤖 DAOs
-  🔐 Account Abstraction
-  🎁 Airdrop and Signatures (N.B: EIP712, EIP191)
-  🔄 Upgradeable Smart Contracts
-  🛡️ Smart Contract Security and Best Practices (N.B: Non-Reentrancy, CEI, DRY)
-  ![Contract Logo](https://img.icons8.com/ios-filled/50/000000/contract.png) Upgradeable Smart Contracts
-  🔗 REST APIs
+ - 🌐 ERC and EIP standards (N.B: ERC20, ERC721, ERC1155)
+ - 💸 DeFi Protocols (N.B: Decentralized Stablecoins, Flash Loans, Lending)
+ - 🏡 Real Estate Tokenization
+ - 🏥 Blockchain in Healthcare
+ - 🤖 DAOs
+ - 🔐 Account Abstraction
+ - 🎁 Airdrop and Signatures (N.B: EIP712, EIP191)
+ - 🔄 Upgradeable Smart Contracts
+ - 🛡️ Smart Contract Security and Best Practices (N.B: Non-Reentrancy, CEI, DRY)
+ - ![Contract Logo](https://img.icons8.com/ios-filled/50/000000/contract.png) Upgradeable Smart Contracts
+ - 🔗 REST APIs
 
 Brief knowledge of front-end programming using React Native.
 
